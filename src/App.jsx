@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import { useUser, useSignIn, useSignUp } from "@clerk/clerk-react";
+import { useUser, useSignIn, useSignUp } from "@clerk/react";
 
 // ═══════════════════════════════════════════════════════════════
 // STYLES
